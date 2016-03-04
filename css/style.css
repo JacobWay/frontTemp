@@ -1,3 +1,6 @@
+/* Import Section */
+@import url("halflings.css");   /* Glyphicons Halflings Font */
+
 body {
     background: #F5F5F5;
     color: #333;
@@ -44,3 +47,13 @@ a.brand span {
 .header-nav {padding: 0px;color: #fff !important;background: #000 !important;}
 
 .header-nav .nav {margin: 0px;}
+
+.navbar-inner a i {margin-top: 2px;}
+
+.btn i {margin-top: 2px;}
+
+.header-nav a.btn {color: #fff;text-shadow: none !important;padding: 10px 25px !important;}
+
+.header-nav .btn {display: inline-block;padding: 20px 20px;margin-top: 0px;margin-left: 0px;font-size: 14px;line-height: 20px;text-align: center;text-shadow: none;vertical-align: middle;cursor: pointer;background: transparent;border-left: none;border-right: none;border-top: 0px;border-bottom: 0px;-webkit-border-radius: 0px;-moz-border-radius: 0px;border-radius: 0px;-webkit-box-shadow: none !important;-moz-box-shadow: none !important;box-shadow: none !important;}
+
+.btn {color: #ffffff;background-color: #a7a9aa;border-color: #a7a9aa;background-image: none;filter: none;text-shadow: none;display: inline-block;padding: 6px 12px;margin-bottom: 0;font-size: 14px;font-weight: 500;line-height: 20px;text-align: center;white-space: nowrap;vertical-align: middle;cursor: pointer;border: 1px solid #a7a9aa;-webkit-border-radius: 0xp !important;border-radius: 0px !important;}
